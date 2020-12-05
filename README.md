@@ -13,4 +13,4 @@ This can be further improved if
  
 The security of this implementation can be improved if
   1) Hidden data is encrypted first
-  2) Using a more confusing technique in hiding the data (ie. 6th bit + 8th bit instead 7th bit + 8th bit)
+  2) Using a more confusing technique in hiding the data (ie. 6th bit + 8th bit instead 7th bit + 8th bit or storing the data in reverse)
